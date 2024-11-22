@@ -1,5 +1,5 @@
 # 💫 About Me:
-<img align="right" alt="Coding" width="40%" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+<img align="right" alt="Coding" width="28%" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 - 🌱 I’m currently learning **DSA + Java , MERN Stack**<br><br>- 💬 Ask me about **Python , Java**<br><br>- 📫 How to reach me **patelparashar33@gmail.com**<br><br>- ⚡ Fun fact **I am Funny and can be professional as well.**
 
 
@@ -23,6 +23,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Parashar-Patel&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Parashar-Patel&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="https://raw.githubusercontent.com/Parashar-Patel/Parashar-Patel/output/snake.svg" alt="Snake animation" />
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
