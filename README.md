@@ -1,6 +1,6 @@
 # 💫 About Me:
 <img align="right" alt="Coding" width="28%" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
-- 🌱 I’m currently learning **DSA + Java , MERN Stack**<br><br>- 💬 Ask me about **Python , Java**<br><br>- 📫 How to reach me **patelparashar33@gmail.com**<br><br>- ⚡ Fun fact **I am Funny and can be professional as well.**
+- 🌱 I’m currently learning **DSA + Python , MERN Stack**<br><br>- 💬 Ask me about **Python**<br><br>- 📫 How to reach me **patelparashar33@gmail.com**<br><br>- ⚡ Fun fact **I am Funny and can be professional as well.**
 
 
 ## 🌐 Socials:
